@@ -9,11 +9,11 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.motorcycles",
+            "url": "https://filmpertutti.army",
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tanti.bond",
+            "url": "https://tantifilm.food",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
